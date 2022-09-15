@@ -1,0 +1,8 @@
+Test\Main.class
+Controller\ParametriListener.class
+Model\Model.class
+View\SuscettibiliView.class
+Controller\MenuListener.class
+View\MenuView.class
+View\Grafica.class
+View\ParametriView.class
